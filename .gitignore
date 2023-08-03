@@ -1,0 +1,8 @@
+#
+.pyenv/
+__org/
+#Readme.txt
+#
+crud_project/
+crud_app/
+db.sqlite3
